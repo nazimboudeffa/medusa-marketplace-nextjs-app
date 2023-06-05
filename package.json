@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@medusajs/product": "^0.0.2-snapshot-20230529090126",
     "@types/node": "20.2.5",
     "@types/react": "18.2.7",
     "@types/react-dom": "18.2.4",
